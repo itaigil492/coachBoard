@@ -25,3 +25,9 @@ C:\Users\בן גולן\Documents\בן גולן\לימודים\כיתה י\רוב
 C:\Users\בן גולן\Documents\בן גולן\לימודים\כיתה י\רובוטיקה\תכנות\C#\FirstProject\הצלחה\obj\Debug\WindowsFormsAppThird.csproj.GenerateResource.cache
 C:\Users\בן גולן\Documents\בן גולן\לימודים\כיתה י\רובוטיקה\תכנות\C#\FirstProject\הצלחה\obj\Debug\WindowsFormsAppThird.exe
 C:\Users\בן גולן\Documents\בן גולן\לימודים\כיתה י\רובוטיקה\תכנות\C#\FirstProject\הצלחה\obj\Debug\WindowsFormsAppThird.pdb
+C:\Users\robotica-lenovo\Desktop\coachboard\obj\Debug\WindowsFormsAppThird.csprojAssemblyReference.cache
+C:\Users\robotica-lenovo\Desktop\coachboard\obj\Debug\WindowsFormsAppThird.Form1.resources
+C:\Users\robotica-lenovo\Desktop\coachboard\obj\Debug\WindowsFormsAppThird.Properties.Resources.resources
+C:\Users\robotica-lenovo\Desktop\coachboard\obj\Debug\WindowsFormsAppThird.csproj.GenerateResource.cache
+C:\Users\robotica-lenovo\Desktop\coachboard\obj\Debug\WindowsFormsAppThird.exe
+C:\Users\robotica-lenovo\Desktop\coachboard\obj\Debug\WindowsFormsAppThird.pdb
