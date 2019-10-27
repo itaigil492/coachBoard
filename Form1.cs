@@ -8,16 +8,24 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using Nawtonsoft.json;
-Random RN =new Random();
+
 		
-		Dictionary<string, Dictionary<string, Dictionary<string, int>>> TeamInfo = new Dictionary<string, Dictionary<string, Dictionary<string, int>>>();
-			Dictionary<string, Dictionary<string, int>> Game1 = new Dictionary<string, Dictionary<string, int>>();
-			Dictionary<string, Dictionary<string, int>> Game2 = new Dictionary<string, Dictionary<string, int>>();
-			Dictionary<string, Dictionary<string, int>> Game3 = new Dictionary<string, Dictionary<string, int>>();
-		Dictionary<string, int> MisCarGame1 = new Dictionary<string, int>();
-		MisCarGame1.Add("number", 1574);
-		MisCarGame1.Add("Panel", RN.Next(0,7));
-		MisCarGame1.Add("Cargo", RN.Next(0,7));
+
+
+namespace WindowsFormsAppThird
+{
+    public partial class Form1 : Form
+    {
+        Random RN =new Random();
+     	Dictionary<string, Dictionary<string, Dictionary<string, int>>> TeamInfo = new Dictionary<string, Dictionary<string, Dictionary<string, int>>>();
+		Dictionary<string, Dictionary<string, int>> Game1 = new Dictionary<string, Dictionary<string, int>>();
+		Dictionary<string, Dictionary<string, int>> Game2 = new Dictionary<string, Dictionary<string, int>>();
+		Dictionary<string, Dictionary<string, int>> Game3 = new Dictionary<string, Dictionary<string, int>>();
+		Dictionary<string, int> MisCarGame1 = new Dictionary<string, int>(){
+            ("number", 1574),
+		    ("Panel", RN.Next(0,7)),
+		    ("Cargo", RN.Next(0,7))
+        };
 		
 		Dictionary<string, int> OrbitGame1 = new Dictionary<string, int>();
 		OrbitGame1.Add("number", 1690);
@@ -127,11 +135,6 @@ Random RN =new Random();
 		TeamInfo.Add("Game1", Game1);
 		TeamInfo.Add("Game2", Game2);
 		TeamInfo.Add("Game3", Game3);
-
-namespace WindowsFormsAppThird
-{
-    public partial class Form1 : Form
-    {
         public Form1()
         {
             InitializeComponent();
