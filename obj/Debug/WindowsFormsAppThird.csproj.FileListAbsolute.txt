@@ -1,0 +1,27 @@
+C:\Users\בן גולן\source\repos\WindowsFormsAppThird\WindowsFormsAppThird\obj\Debug\WindowsFormsAppThird.csprojAssemblyReference.cache
+C:\Users\בן גולן\source\repos\WindowsFormsAppThird\WindowsFormsAppThird\obj\Debug\WindowsFormsAppThird.Form1.resources
+C:\Users\בן גולן\source\repos\WindowsFormsAppThird\WindowsFormsAppThird\obj\Debug\WindowsFormsAppThird.Properties.Resources.resources
+C:\Users\בן גולן\source\repos\WindowsFormsAppThird\WindowsFormsAppThird\obj\Debug\WindowsFormsAppThird.csproj.GenerateResource.cache
+C:\Users\בן גולן\source\repos\WindowsFormsAppThird\WindowsFormsAppThird\bin\Debug\WindowsFormsAppThird.exe.config
+C:\Users\בן גולן\source\repos\WindowsFormsAppThird\WindowsFormsAppThird\bin\Debug\WindowsFormsAppThird.exe
+C:\Users\בן גולן\source\repos\WindowsFormsAppThird\WindowsFormsAppThird\bin\Debug\WindowsFormsAppThird.pdb
+C:\Users\בן גולן\source\repos\WindowsFormsAppThird\WindowsFormsAppThird\obj\Debug\WindowsFormsAppThird.exe
+C:\Users\בן גולן\source\repos\WindowsFormsAppThird\WindowsFormsAppThird\obj\Debug\WindowsFormsAppThird.pdb
+C:\Users\בן גולן\Documents\בן גולן\לימודים\כיתה י\רובוטיקה\תכנות\C#\FirstProject\WindowsFormsAppThird\bin\Debug\WindowsFormsAppThird.exe.config
+C:\Users\בן גולן\Documents\בן גולן\לימודים\כיתה י\רובוטיקה\תכנות\C#\FirstProject\WindowsFormsAppThird\bin\Debug\WindowsFormsAppThird.exe
+C:\Users\בן גולן\Documents\בן גולן\לימודים\כיתה י\רובוטיקה\תכנות\C#\FirstProject\WindowsFormsAppThird\bin\Debug\WindowsFormsAppThird.pdb
+C:\Users\בן גולן\Documents\בן גולן\לימודים\כיתה י\רובוטיקה\תכנות\C#\FirstProject\WindowsFormsAppThird\obj\Debug\WindowsFormsAppThird.csprojAssemblyReference.cache
+C:\Users\בן גולן\Documents\בן גולן\לימודים\כיתה י\רובוטיקה\תכנות\C#\FirstProject\WindowsFormsAppThird\obj\Debug\WindowsFormsAppThird.Form1.resources
+C:\Users\בן גולן\Documents\בן גולן\לימודים\כיתה י\רובוטיקה\תכנות\C#\FirstProject\WindowsFormsAppThird\obj\Debug\WindowsFormsAppThird.Properties.Resources.resources
+C:\Users\בן גולן\Documents\בן גולן\לימודים\כיתה י\רובוטיקה\תכנות\C#\FirstProject\WindowsFormsAppThird\obj\Debug\WindowsFormsAppThird.csproj.GenerateResource.cache
+C:\Users\בן גולן\Documents\בן גולן\לימודים\כיתה י\רובוטיקה\תכנות\C#\FirstProject\WindowsFormsAppThird\obj\Debug\WindowsFormsAppThird.exe
+C:\Users\בן גולן\Documents\בן גולן\לימודים\כיתה י\רובוטיקה\תכנות\C#\FirstProject\WindowsFormsAppThird\obj\Debug\WindowsFormsAppThird.pdb
+C:\Users\בן גולן\Documents\בן גולן\לימודים\כיתה י\רובוטיקה\תכנות\C#\FirstProject\הצלחה\bin\Debug\WindowsFormsAppThird.exe.config
+C:\Users\בן גולן\Documents\בן גולן\לימודים\כיתה י\רובוטיקה\תכנות\C#\FirstProject\הצלחה\bin\Debug\WindowsFormsAppThird.exe
+C:\Users\בן גולן\Documents\בן גולן\לימודים\כיתה י\רובוטיקה\תכנות\C#\FirstProject\הצלחה\bin\Debug\WindowsFormsAppThird.pdb
+C:\Users\בן גולן\Documents\בן גולן\לימודים\כיתה י\רובוטיקה\תכנות\C#\FirstProject\הצלחה\obj\Debug\WindowsFormsAppThird.csprojAssemblyReference.cache
+C:\Users\בן גולן\Documents\בן גולן\לימודים\כיתה י\רובוטיקה\תכנות\C#\FirstProject\הצלחה\obj\Debug\WindowsFormsAppThird.Form1.resources
+C:\Users\בן גולן\Documents\בן גולן\לימודים\כיתה י\רובוטיקה\תכנות\C#\FirstProject\הצלחה\obj\Debug\WindowsFormsAppThird.Properties.Resources.resources
+C:\Users\בן גולן\Documents\בן גולן\לימודים\כיתה י\רובוטיקה\תכנות\C#\FirstProject\הצלחה\obj\Debug\WindowsFormsAppThird.csproj.GenerateResource.cache
+C:\Users\בן גולן\Documents\בן גולן\לימודים\כיתה י\רובוטיקה\תכנות\C#\FirstProject\הצלחה\obj\Debug\WindowsFormsAppThird.exe
+C:\Users\בן גולן\Documents\בן גולן\לימודים\כיתה י\רובוטיקה\תכנות\C#\FirstProject\הצלחה\obj\Debug\WindowsFormsAppThird.pdb
